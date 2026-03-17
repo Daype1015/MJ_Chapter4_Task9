@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unrealprojects\\numberbaseball\\intermediate\\build\\win64\\unrealeditor\\inc\\numberbaseball\\uht\\numberbaseball.init.gen.cpp",
+        "Source": "d:\\git\\mj_chapter4_task9\\numberbaseball\\intermediate\\build\\win64\\unrealeditor\\inc\\numberbaseball\\uht\\numberbaseball.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\unrealprojects\\numberbaseball\\intermediate\\build\\win64\\x64\\numberbaseballeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\git\\mj_chapter4_task9\\numberbaseball\\intermediate\\build\\win64\\x64\\numberbaseballeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\unrealprojects\\numberbaseball\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\numberbaseball\\definitions.numberbaseball.h"
+            "d:\\git\\mj_chapter4_task9\\numberbaseball\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\numberbaseball\\definitions.numberbaseball.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

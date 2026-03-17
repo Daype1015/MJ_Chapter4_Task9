@@ -93,14 +93,14 @@ UNBGameWidget::~UNBGameWidget() {}
 // End Class UNBGameWidget
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_Statics
+struct Z_CompiledInDeferFile_FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UNBGameWidget, UNBGameWidget::StaticClass, TEXT("UNBGameWidget"), &Z_Registration_Info_UClass_UNBGameWidget, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UNBGameWidget), 2430868581U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_928020785(TEXT("/Script/NumberBaseBall"),
-	Z_CompiledInDeferFile_FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_928020785(TEXT("/Script/NumberBaseBall"),
+	Z_CompiledInDeferFile_FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

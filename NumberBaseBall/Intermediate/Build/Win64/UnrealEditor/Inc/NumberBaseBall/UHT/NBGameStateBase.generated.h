@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define NUMBERBASEBALL_NBGameStateBase_generated_h
 
-#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesANBGameStateBase(); \
 	friend struct Z_Construct_UClass_ANBGameStateBase_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(ANBGameStateBase)
 
 
-#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ANBGameStateBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
@@ -37,12 +37,12 @@ public: \
 	NO_API virtual ~ANBGameStateBase();
 
 
-#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h_12_PROLOG
-#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h_15_GENERATED_BODY \
+#define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h_12_PROLOG
+#define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h_15_INCLASS_NO_PURE_DECLS \
-	FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -50,7 +50,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> NUMBERBASEBALL_API UClass* StaticClass<class ANBGameStateBase>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h
+#define CURRENT_FILE_ID FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_GameState_NBGameStateBase_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

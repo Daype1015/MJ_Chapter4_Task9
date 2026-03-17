@@ -1,12 +1,12 @@
-"D:\UnrealProjects\NumberBaseBall\Intermediate\Build\Win64\UnrealEditor\Inc\NumberBaseBall\UHT\NumberBaseBall.init.gen.cpp"
-/FI"D:\UnrealProjects\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"D:\UnrealProjects\NumberBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\Development\NumberBaseBall\Definitions.NumberBaseBall.h"
-/Yu"D:\UnrealProjects\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"D:\UnrealProjects\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"D:\UnrealProjects\NumberBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\Development\NumberBaseBall\NumberBaseBall.init.gen.cpp.obj"
-/experimental:log "D:\UnrealProjects\NumberBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\Development\NumberBaseBall\NumberBaseBall.init.gen.cpp.sarif"
-/sourceDependencies "D:\UnrealProjects\NumberBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\Development\NumberBaseBall\NumberBaseBall.init.gen.cpp.dep.json"
-@"D:\UnrealProjects\NumberBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\Development\NumberBaseBall\NumberBaseBall.Shared.rsp"
+"D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Intermediate\Build\Win64\UnrealEditor\Inc\NumberBaseBall\UHT\NumberBaseBall.init.gen.cpp"
+/FI"D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\Development\NumberBaseBall\Definitions.NumberBaseBall.h"
+/Yu"D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\Development\NumberBaseBall\NumberBaseBall.init.gen.cpp.obj"
+/experimental:log "D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\Development\NumberBaseBall\NumberBaseBall.init.gen.cpp.sarif"
+/sourceDependencies "D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\Development\NumberBaseBall\NumberBaseBall.init.gen.cpp.dep.json"
+@"D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\Development\NumberBaseBall\NumberBaseBall.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

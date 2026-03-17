@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define NUMBERBASEBALL_NBGameWidget_generated_h
 
-#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_INCLASS_NO_PURE_DECLS \
+#define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUNBGameWidget(); \
 	friend struct Z_Construct_UClass_UNBGameWidget_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(UNBGameWidget)
 
 
-#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_ENHANCED_CONSTRUCTORS \
+#define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UNBGameWidget(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
@@ -37,12 +37,12 @@ public: \
 	NO_API virtual ~UNBGameWidget();
 
 
-#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_14_PROLOG
-#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_GENERATED_BODY \
+#define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_14_PROLOG
+#define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_INCLASS_NO_PURE_DECLS \
-	FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_ENHANCED_CONSTRUCTORS \
+	FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_INCLASS_NO_PURE_DECLS \
+	FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -50,7 +50,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> NUMBERBASEBALL_API UClass* StaticClass<class UNBGameWidget>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h
+#define CURRENT_FILE_ID FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
