@@ -1,19 +1,19 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unrealprojects\\numberbaseball\\source\\numberbaseball\\gamestate\\nbgamestatebase.cpp",
+        "Source": "d:\\git\\mj_chapter4_task9\\numberbaseball\\source\\numberbaseball\\gamestate\\nbgamestatebase.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\unrealprojects\\numberbaseball\\intermediate\\build\\win64\\x64\\numberbaseballeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\git\\mj_chapter4_task9\\numberbaseball\\intermediate\\build\\win64\\x64\\numberbaseballeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\unrealprojects\\numberbaseball\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\numberbaseball\\definitions.numberbaseball.h",
-            "d:\\unrealprojects\\numberbaseball\\source\\numberbaseball\\gamestate\\nbgamestatebase.h",
+            "d:\\git\\mj_chapter4_task9\\numberbaseball\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\numberbaseball\\definitions.numberbaseball.h",
+            "d:\\git\\mj_chapter4_task9\\numberbaseball\\source\\numberbaseball\\gamestate\\nbgamestatebase.h",
             "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestatebase.h",
             "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
             "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
             "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
             "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
             "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestatebase.generated.h",
-            "d:\\unrealprojects\\numberbaseball\\intermediate\\build\\win64\\unrealeditor\\inc\\numberbaseball\\uht\\nbgamestatebase.generated.h"
+            "d:\\git\\mj_chapter4_task9\\numberbaseball\\intermediate\\build\\win64\\unrealeditor\\inc\\numberbaseball\\uht\\nbgamestatebase.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

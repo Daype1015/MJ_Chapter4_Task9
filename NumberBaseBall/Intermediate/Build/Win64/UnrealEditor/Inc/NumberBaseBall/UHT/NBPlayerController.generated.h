@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define NUMBERBASEBALL_NBPlayerController_generated_h
 
-#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h_16_INCLASS_NO_PURE_DECLS \
+#define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesANBPlayerController(); \
 	friend struct Z_Construct_UClass_ANBPlayerController_Statics; \
@@ -23,9 +23,7 @@ public: \
 	DECLARE_SERIALIZER(ANBPlayerController)
 
 
-#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h_16_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API ANBPlayerController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+#define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ANBPlayerController(ANBPlayerController&&); \
@@ -33,16 +31,16 @@ private: \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ANBPlayerController); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ANBPlayerController); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ANBPlayerController) \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ANBPlayerController) \
 	NO_API virtual ~ANBPlayerController();
 
 
-#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h_13_PROLOG
-#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h_16_GENERATED_BODY \
+#define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h_14_PROLOG
+#define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h_16_INCLASS_NO_PURE_DECLS \
-	FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h_16_ENHANCED_CONSTRUCTORS \
+	FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h_17_INCLASS_NO_PURE_DECLS \
+	FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -50,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> NUMBERBASEBALL_API UClass* StaticClass<class ANBPlayerController>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h
+#define CURRENT_FILE_ID FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_Player_NBPlayerController_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

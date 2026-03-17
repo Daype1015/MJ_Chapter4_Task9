@@ -6,7 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/UnrealProjects/NumberBaseBall/Content/NumberBaseBall/Maps/NumberBaseBall.umap",
-				"D:/UnrealProjects/NumberBaseBall/Content/NumberBaseBall/Blueprint/UI/BP_GameWidget.uasset"
+				"D:/UnrealProjects/NumberBaseBall/Content/NumberBaseBall/Blueprint/UI/BP_GameWidget.uasset",
+				"D:/Git/MJ_Chapter4_Task9/NumberBaseBall/Content/NumberBaseBall/Blueprint/GameMode/BP_GameModeBase.uasset",
+				"D:/Git/MJ_Chapter4_Task9/NumberBaseBall/Content/NumberBaseBall/Blueprint/Player/BP_PlayerController.uasset",
+				"D:/Git/MJ_Chapter4_Task9/NumberBaseBall/Content/NumberBaseBall/Maps/NumberBaseBall.umap",
+				"D:/Git/MJ_Chapter4_Task9/NumberBaseBall/Content/NumberBaseBall/Blueprint/UI/BP_GameWidget.uasset"
 			]
 		}
 	]
