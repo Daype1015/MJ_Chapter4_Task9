@@ -1,0 +1,56 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "UI/NBGameWidget.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef NUMBERBASEBALL_NBGameWidget_generated_h
+#error "NBGameWidget.generated.h already included, missing '#pragma once' in NBGameWidget.h"
+#endif
+#define NUMBERBASEBALL_NBGameWidget_generated_h
+
+#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUNBGameWidget(); \
+	friend struct Z_Construct_UClass_UNBGameWidget_Statics; \
+public: \
+	DECLARE_CLASS(UNBGameWidget, UUserWidget, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/NumberBaseBall"), NO_API) \
+	DECLARE_SERIALIZER(UNBGameWidget)
+
+
+#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UNBGameWidget(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	UNBGameWidget(UNBGameWidget&&); \
+	UNBGameWidget(const UNBGameWidget&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UNBGameWidget); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UNBGameWidget); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UNBGameWidget) \
+	NO_API virtual ~UNBGameWidget();
+
+
+#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_14_PROLOG
+#define FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_INCLASS_NO_PURE_DECLS \
+	FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> NUMBERBASEBALL_API UClass* StaticClass<class UNBGameWidget>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_UnrealProjects_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

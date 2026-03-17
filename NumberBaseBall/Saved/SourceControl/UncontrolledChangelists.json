@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProjects/NumberBaseBall/Content/NumberBaseBall/Maps/NumberBaseBall.umap",
+				"D:/UnrealProjects/NumberBaseBall/Content/NumberBaseBall/Blueprint/UI/BP_GameWidget.uasset"
+			]
+		}
+	]
+}
