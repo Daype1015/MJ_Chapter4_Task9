@@ -14,6 +14,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define NUMBERBASEBALL_NBGameWidget_generated_h
 
+#define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execOnChatInputTextCommitted);
+
+
 #define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUNBGameWidget(); \
@@ -41,6 +45,7 @@ public: \
 #define FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
+	FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
 	FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_INCLASS_NO_PURE_DECLS \
 	FID_Git_MJ_Chapter4_Task9_NumberBaseBall_Source_NumberBaseBall_UI_NBGameWidget_h_17_ENHANCED_CONSTRUCTORS \
 private: \

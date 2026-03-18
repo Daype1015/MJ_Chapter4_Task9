@@ -66,6 +66,12 @@
     <ClCompile Include="..\..\Source\NumberBaseBall\Player\NBPlayerController.h">
       <Filter>Source\NumberBaseBall\Player</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\NumberBaseBall\Player\NBPlayerState.cpp">
+      <Filter>Source\NumberBaseBall\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NumberBaseBall\Player\NBPlayerState.h">
+      <Filter>Source\NumberBaseBall\Player</Filter>
+    </ClCompile>
     <Filter Include="Source\NumberBaseBall\UI">
       <UniqueIdentifier>{CE066D0C-1770-36D8-8584-E9DF1849954F}</UniqueIdentifier>
     </Filter>
