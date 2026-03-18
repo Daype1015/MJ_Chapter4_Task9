@@ -1,4 +1,5 @@
-D:\UnrealProjects\NumberBaseBall\Source\NumberBaseBall\GameMode\NBGameModeBase.h
-D:\UnrealProjects\NumberBaseBall\Source\NumberBaseBall\GameState\NBGameStateBase.h
-D:\UnrealProjects\NumberBaseBall\Source\NumberBaseBall\Player\NBPlayerController.h
-D:\UnrealProjects\NumberBaseBall\Source\NumberBaseBall\UI\NBGameWidget.h
+D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Source\NumberBaseBall\GameMode\NBGameModeBase.h
+D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Source\NumberBaseBall\GameState\NBGameStateBase.h
+D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Source\NumberBaseBall\Player\NBPlayerState.h
+D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Source\NumberBaseBall\Player\NBPlayerController.h
+D:\Git\MJ_Chapter4_Task9\NumberBaseBall\Source\NumberBaseBall\UI\NBGameWidget.h
